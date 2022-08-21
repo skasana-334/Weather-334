@@ -3,7 +3,11 @@
 
 ➡️ In this website user can also get the maximum and minimum temperature of the city.
 
-#Deployement
+## Deployement
+
+
 ❕It is deployed on NETLIFY.
 
 ❕the website is live on 👉🏻 https://weather334.netlify.app/ on this link.
+
+
